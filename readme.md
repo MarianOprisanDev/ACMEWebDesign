@@ -1,5 +1,6 @@
 # ACME contact section using CSS Grids
-## From Brad Traversy's course on YouTube [Visit Brad's YouTube channel](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
----
+## From Brad Traversy's course on YouTube 
+[Visit Brad's YouTube channel](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
-### This is just a front-end mini project
+ This is just a front-end mini project
+ Contains: index.html and style.css files only
